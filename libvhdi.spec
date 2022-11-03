@@ -25,7 +25,7 @@
 
 Summary: 	Library and tools to access the Virtual Hard Disk (VHD) image format
 Name:		lib%{sname}
-Version:	20210425
+Version:	20221029
 Release:	1
 License:	LGPLv3+ and GPLv3+
 Group:		File tools
