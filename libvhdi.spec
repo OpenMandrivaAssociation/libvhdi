@@ -32,6 +32,11 @@ Group:		File tools
 URL:		https://github.com/libyal/%{name}
 Source0:	https://github.com/libyal/%{name}/releases/download/%{version}/%{name}-alpha-%{version}.tar.gz
 
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 BuildRequires:	intltool
 BuildRequires:	pkgconfig(fuse)
 
